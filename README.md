@@ -14,7 +14,7 @@ $pip install colorama
 
 $pip install futures
 
-$git clone
+$git clone https://github.com/KALLXD/crack-fb
 
 $cd MARSHAL
 
